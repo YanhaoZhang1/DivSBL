@@ -3,7 +3,7 @@ This set of Matlab (Vision R2021b) functions contain the core code to reproduce 
 
 * DivSBL.m  ---> the main function for Diversified Block Sparse Bayesian Learning.
 
-**For convenience, ```'DivSBL.m' is directly provided in each demo folders.``` **
+**For convenience, ```'DivSBL.m' is directly provided in each demo folders.```** 
 
     # Please note that the value of the `PRUNE_GAMMA` parameter in 'DivSBL.m' function needs to be manually adjusted according to the data.
 
@@ -12,7 +12,7 @@ This set of Matlab (Vision R2021b) functions contain the core code to reproduce 
 
 ## Set path
 
--- The following 5 sub-files in DivSBL_public folder need to be manually read by the user into the MATLAB path, for use in comparative experiments in the demo folders. 
+The following 5 sub-files in DivSBL folder need to be manually read by the user into the MATLAB path, for use in comparative experiments in the demo folders. 
 
     * BCS_fast_rvm.m        ---> The function file for SBL(RVM) algorithm from [1],
 
