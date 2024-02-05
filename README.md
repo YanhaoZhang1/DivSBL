@@ -55,7 +55,7 @@ The following 5 sub-files in DivSBL folder need to be manually read by the user 
 **For bug reports, please contact me at email: yanhaozhang@buaa.edu.cn.**
 
 
-Author: Yanhao Zhang.
+Authors: Yanhao Zhang, Zhihan Zhu and Yong Xia.
 
 Beihang University,  Jan, 27, 2024.
 
